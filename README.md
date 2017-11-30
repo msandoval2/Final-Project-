@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## 14 YEARS OF CONFLICT
 
-You can use the [editor on GitHub](https://github.com/msandoval2/Final-Project-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In Colombia everyone talk about conflict, everyone talks about war, but hardly anyone understand it over time. Out side Colombia people lable us as narcos, skilled militia or the most beautiful women in the world. Hardly anyone recognize the heavy weigth of war in our eyes. This project is a personal reflection of the "art" of war during just 14 years of decades of conflict in Colombia. It's an attempt to use numbers to tell a small part of the story and led you make your own conclusions about this war. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For me it is an opportunity to reframe thinking. Who are perpetrators? Who are victims? How does war look like? Which war techniques are more efficient? How much have we changed over time? Have we learned something?
 
-### Markdown
+“But if they had learned anything together, it was that wisdom 
+comes to us when it can no longer do any good.”
+Gabriel Garcia Marquez
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In a polarized country which wisdom are we building to move forward?
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## The Data
+For this visualization I used [Civilianz death in bellicose actions](https://www.datos.gov.co/DataJam/Data-Jam-2017-OP-Centro-Memoria-Civiles-Muertos-Ac/6p84-qhsn) from the Colombian Center of Historic Memory. I choose this dataset because it describe in detail the date and location of the event, also the responsable group of the action and the number of victims. 
 
-- Bulleted
-- List
+It is important to say that the data used exclude civilianz used as human shield, terrorist attacks, antipersonnel mines, ammunition without exploating and sabotage. 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/msandoval2/Final-Project-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
