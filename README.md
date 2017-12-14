@@ -1,4 +1,4 @@
-## 24 YEARS OF CONFLICT
+## COLOMBIA, 24 YEARS OF CONFLICT
 
 In Colombia everyone talk about conflict, everyone talks about war, but hardly anyone understand it over time. Out side Colombia people lable us as narcos, skilled militia or the most beautiful women in the world. Hardly anyone recognize the heavy weigth of war in our eyes. This project is a personal reflection of the "art" of war during just 24 years of decades of conflict in Colombia. It's an attempt to use numbers to tell a small part of the story and led you make your own conclusions about this war. 
 
