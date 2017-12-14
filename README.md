@@ -11,6 +11,12 @@ Gabriel Garcia Marquez
 In a polarized country which wisdom are we building to move forward?
 
 
+## Demo Link
+file:///Users/mariaalejandrasandoval/Documents/Documentos%20/SVA/03%20Fall%202017/Data/index.html
+
+## The Process
+The process to make this visualizations started early on on the semester, I use the different class asignments and resources (carto, raw, jcharts) to explore different posibilities the data was offering. I found three main topics I was interested in visualizing: the number of victims due to bellicose actions, the colombian departments affected during this perios of time and the types of victims. After a digital exploration i decided to sketch and draw some other posibilities to visualize my story. after deciding the shapes and style I start looking for similar graphs i could edit with my data or tools that would allow me to do so. Like this, I made the first map altering code in a highchart chart. For the second map, i decided to use illustrator, because Carto libraries didnt have a map of colombia divided by its departments. Finally, I used raw to generate the third graph. This was and interesting process, while understanding that the data set needs to be clean and adapted according to the vosualization intended to achieve. 
+
 ## The Data
 For this visualization I used [Civilianz death in bellicose actions](https://www.datos.gov.co/DataJam/Data-Jam-2017-OP-Centro-Memoria-Civiles-Muertos-Ac/6p84-qhsn) from the Colombian Center of Historic Memory. I choose this dataset because it describe in detail the date and location of the event, also the responsable group of the action and the number of victims. 
 
